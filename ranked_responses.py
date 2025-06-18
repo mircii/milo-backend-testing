@@ -15,8 +15,8 @@ from fallbackHandler import getFallbackForTag
 
 # === Setări directoare ===
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_DIR = os.path.join(BASE_DIR, "/03_Saved_Models")
-DATASET_DIR = os.path.join(BASE_DIR, "/04_Datasets")
+MODEL_DIR = os.path.join(BASE_DIR, "03_Saved_Models")
+DATASET_DIR = os.path.join(BASE_DIR, "04_Datasets")
 
 # === Încarcă modelul și resursele ===
 MILO_03 = load_model(os.path.join(MODEL_DIR, "MILO_03.h5"))
