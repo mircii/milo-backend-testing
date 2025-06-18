@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: milo-backend
+    env: python
+    region: frankfurt
+    buildCommand: ""
+    startCommand: uvicorn main:app --host 0.0.0.0 --port 8000
+    runtime: python3
+    plan: free
