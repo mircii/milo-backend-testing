@@ -1,0 +1,104 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hello",
+                "Hi",
+                "Hey",
+                "Good morning",
+                "Good afternoon",
+                "Hey there",
+                "Hi, how are you?",
+                "What's up?",
+                "Howdy"
+            ],
+            "responses": [
+                "Hello! How can I help you?",
+                "Hey there!",
+                "Hi! What do you need?",
+                "Good to see you!",
+                "Hey! How's your day going?"
+            ]
+        },
+        {
+            "tag": "career_advice",
+            "patterns": [
+                "How do I find a job?",
+                "Any resume tips?",
+                "How to prepare for an interview?",
+                "What skills are in demand?",
+                "How do I negotiate salary?",
+                "What makes a good resume?",
+                "How do I network effectively?",
+                "Should I follow my passion or money?"
+            ],
+            "responses": [
+                "Make sure your resume is ATS-friendly.",
+                "Tailor your resume for each job application.",
+                "Practice common interview questions.",
+                "Develop in-demand skills like coding and data analysis.",
+                "Always research salary benchmarks before negotiating.",
+                "A good resume is concise and highlights achievements.",
+                "Attend industry events and engage on LinkedIn.",
+                "Both are important! Find a balance between passion and financial stability."
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Take care",
+                "Catch you later",
+                "See you soon",
+                "I have to go",
+                "Talk to you later"
+            ],
+            "responses": [
+                "Goodbye! Have a great day!",
+                "See you next time!",
+                "Take care!",
+                "Bye! Looking forward to our next chat!",
+                "Have a great day ahead!"
+            ]
+        },
+        {
+            "tag": "small_talk",
+            "patterns": [
+                "How's the weather?",
+                "What do you do for fun?",
+                "Do you like music?",
+                "What's your favorite food?",
+                "Do you have any hobbies?",
+                "Tell me something fun"
+            ],
+            "responses": [
+                "I enjoy learning new things every day!",
+                "I love music! What about you?",
+                "Pizza is always a great choice!",
+                "I like having interesting conversations!",
+                "The weather is great today! How is it over there?",
+                "I enjoy helping people like you!"
+            ]
+        },
+        {
+            "tag": "advice",
+            "patterns": [
+                "How do I stay motivated?",
+                "How to handle stress?",
+                "What’s the key to success?",
+                "How to build good habits?",
+                "How do I improve my confidence?"
+            ],
+            "responses": [
+                "Set small goals and celebrate your progress!",
+                "Practice mindfulness and take breaks.",
+                "Consistency and learning from failures are key!",
+                "Start small and stay consistent!",
+                "Believe in yourself and challenge negative thoughts!"
+            ]
+        }
+    ]
+}

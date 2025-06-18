@@ -1,0 +1,1302 @@
+[
+  {
+    "pattern": "Salut!",
+    "tag": "greeting",
+    "response": "greeting::Salut! Cu ce te pot ajuta?"
+  },
+  {
+    "pattern": "Bună!",
+    "tag": "greeting",
+    "response": "greeting::Bună! Cum îți pot fi de folos?"
+  },
+  {
+    "pattern": "Bună ziua!",
+    "tag": "greeting",
+    "response": "greeting::Hei! Mă bucur să te văd!"
+  },
+  {
+    "pattern": "Bună dimineața!",
+    "tag": "greeting",
+    "response": "greeting::Salut! E o plăcere să vorbesc cu tine."
+  },
+  {
+    "pattern": "Bună seara!",
+    "tag": "greeting",
+    "response": "greeting::Bună ziua! Ce subiect te interesează?"
+  },
+  {
+    "pattern": "Salutare!",
+    "tag": "greeting",
+    "response": "greeting::Salutări! Sunt aici dacă ai nevoie de mine."
+  },
+  {
+    "pattern": "Hei!",
+    "tag": "greeting",
+    "response": "greeting::Hei! Îmi face plăcere să te revăd."
+  },
+  {
+    "pattern": "Hei acolo!",
+    "tag": "greeting",
+    "response": "greeting::Salut! Spune-mi cum pot fi de ajutor."
+  },
+  {
+    "pattern": "Servus!",
+    "tag": "greeting",
+    "response": "greeting::Bun venit! Împreună putem discuta orice."
+  },
+  {
+    "pattern": "Noroc!",
+    "tag": "greeting",
+    "response": "greeting::Hei! Ce ai vrea să explorăm azi?"
+  },
+  {
+    "pattern": "Ceau!",
+    "tag": "greeting",
+    "response": "greeting::Salut! Cu ce te pot sprijini?"
+  },
+  {
+    "pattern": "Te salut!",
+    "tag": "greeting",
+    "response": "greeting::Bună! Întotdeauna gata de o conversație!"
+  },
+  {
+    "pattern": "Vă salut!",
+    "tag": "greeting",
+    "response": "greeting::Mă bucur să te văd din nou!"
+  },
+  {
+    "pattern": "Salut tuturor!",
+    "tag": "greeting",
+    "response": "greeting::Salut! Hai să vorbim."
+  },
+  {
+    "pattern": "Bună, lume!",
+    "tag": "greeting",
+    "response": "greeting::Bună! Sunt aici să te ascult."
+  },
+  {
+    "pattern": "Hei, salut!",
+    "tag": "greeting",
+    "response": "greeting::Hei! Cum pot face ziua ta mai bună?"
+  },
+  {
+    "pattern": "Bine te-am găsit!",
+    "tag": "greeting",
+    "response": "greeting::Salutări! Hai să descoperim ceva nou."
+  },
+  {
+    "pattern": "Mă bucur să te văd!",
+    "tag": "greeting",
+    "response": "greeting::Bună! Deschide-ți inima și hai să povestim."
+  },
+  {
+    "pattern": "Salut, prietene!",
+    "tag": "greeting",
+    "response": "greeting::Salut! Spune-mi despre ce vrei să vorbim."
+  },
+  {
+    "pattern": "E o zi frumoasă!",
+    "tag": "greeting",
+    "response": "greeting::Hei! Totul bine? Eu sunt gata."
+  },
+  {
+    "pattern": "Toate bune!",
+    "tag": "greeting",
+    "response": "greeting::Bună ziua! Cu ce îți pot fi de folos azi?"
+  },
+  {
+    "pattern": "Bun venit!",
+    "tag": "greeting",
+    "response": "greeting::Salut! Sunt nerăbdător să discutăm."
+  },
+  {
+    "pattern": "Salut din nou!",
+    "tag": "greeting",
+    "response": "greeting::Bună! Spune-mi ce curiozități ai."
+  },
+  {
+    "pattern": "Hei, bun venit!",
+    "tag": "greeting",
+    "response": "greeting::Hei! Mă bucur că ai venit."
+  },
+  {
+    "pattern": "Hei, mă bucur să te revăd!",
+    "tag": "greeting",
+    "response": "greeting::Salut! Cu ce te pot încânta azi?"
+  },
+  {
+    "pattern": "Salutări!",
+    "tag": "greeting",
+    "response": "greeting::Bună! Gânduri, idei, întrebări? Sunt aici."
+  },
+  {
+    "pattern": "Salutări călduroase!",
+    "tag": "greeting",
+    "response": "greeting::Hei! Să începem o discuție plăcută!"
+  },
+  {
+    "pattern": "Hei, bine ai revenit!",
+    "tag": "greeting",
+    "response": "greeting::Salut! Fii binevenit!"
+  },
+  {
+    "pattern": "Salut și voie bună!",
+    "tag": "greeting",
+    "response": "greeting::Bună! E timpul pentru o conversație grozavă."
+  },
+  {
+    "pattern": "Salut, bine ai venit!",
+    "tag": "greeting",
+    "response": "greeting::Hei! Îmi place să vorbim împreună."
+  },
+  {
+    "pattern": "Bună și bine te-am găsit!",
+    "tag": "greeting",
+    "response": "greeting::Salut! Cu ce te pot ajuta?"
+  },
+  {
+    "pattern": "Hei, ești acolo?",
+    "tag": "greeting",
+    "response": "greeting::Bună! Cum îți pot fi de folos?"
+  },
+  {
+    "pattern": "Salut, dragă prietene!",
+    "tag": "greeting",
+    "response": "greeting::Hei! Mă bucur să te văd!"
+  },
+  {
+    "pattern": "Salutări de dimineață!",
+    "tag": "greeting",
+    "response": "greeting::Salut! E o plăcere să vorbesc cu tine."
+  },
+  {
+    "pattern": "Salut din partea mea!",
+    "tag": "greeting",
+    "response": "greeting::Bună ziua! Ce subiect te interesează?"
+  },
+  {
+    "pattern": "Bună, e o zi minunată!",
+    "tag": "greeting",
+    "response": "greeting::Salutări! Sunt aici dacă ai nevoie de mine."
+  },
+  {
+    "pattern": "Hei, bine te-am găsit!",
+    "tag": "greeting",
+    "response": "greeting::Hei! Îmi face plăcere să te revăd."
+  },
+  {
+    "pattern": "Salutări de weekend!",
+    "tag": "greeting",
+    "response": "greeting::Salut! Spune-mi cum pot fi de ajutor."
+  },
+  {
+    "pattern": "Salutări de sărbători!",
+    "tag": "greeting",
+    "response": "greeting::Bun venit! Împreună putem discuta orice."
+  },
+  {
+    "pattern": "Hei, mă bucur că ai venit!",
+    "tag": "greeting",
+    "response": "greeting::Hei! Ce ai vrea să explorăm azi?"
+  },
+  {
+    "pattern": "Bine ai venit înapoi!",
+    "tag": "greeting",
+    "response": "greeting::Salut! Cu ce te pot sprijini?"
+  },
+  {
+    "pattern": "La revedere!",
+    "tag": "goodbye",
+    "response": "goodbye::La revedere! O zi minunată!"
+  },
+  {
+    "pattern": "Ne vedem curând!",
+    "tag": "goodbye",
+    "response": "goodbye::Pe curând, succes!"
+  },
+  {
+    "pattern": "Pa, pa!",
+    "tag": "goodbye",
+    "response": "goodbye::Să ai o zi grozavă!"
+  },
+  {
+    "pattern": "Pe curând!",
+    "tag": "goodbye",
+    "response": "goodbye::Mă bucur că am vorbit, la revedere!"
+  },
+  {
+    "pattern": "O zi frumoasă!",
+    "tag": "goodbye",
+    "response": "goodbye::Oricând ai nevoie, sunt aici. Pe curând!"
+  },
+  {
+    "pattern": "Mulțumesc pentru ajutor, la revedere!",
+    "tag": "goodbye",
+    "response": "goodbye::Ne vedem curând!"
+  },
+  {
+    "pattern": "O seară plăcută!",
+    "tag": "goodbye",
+    "response": "goodbye::Mult succes în tot ce faci!"
+  },
+  {
+    "pattern": "Ne mai auzim!",
+    "tag": "goodbye",
+    "response": "goodbye::Ai grijă de tine!"
+  },
+  {
+    "pattern": "Ai grijă de tine!",
+    "tag": "goodbye",
+    "response": "goodbye::Mulțumesc că ai stat de vorbă cu mine!"
+  },
+  {
+    "pattern": "Ne vedem mai târziu!",
+    "tag": "goodbye",
+    "response": "goodbye::Mă bucur că am discutat!"
+  },
+  {
+    "pattern": "Îți mulțumesc pentru conversație!",
+    "tag": "goodbye",
+    "response": "goodbye::Pe curând! Îți doresc numai bine!"
+  },
+  {
+    "pattern": "Salut, ne revedem!",
+    "tag": "goodbye",
+    "response": "goodbye::Te mai aștept pentru o discuție!"
+  },
+  {
+    "pattern": "Te mai caut!",
+    "tag": "goodbye",
+    "response": "goodbye::Ne revedem cât de curând!"
+  },
+  {
+    "pattern": "Ne reîntâlnim curând!",
+    "tag": "goodbye",
+    "response": "goodbye::O zi frumoasă și plină de realizări!"
+  },
+  {
+    "pattern": "Sper să mai vorbim!",
+    "tag": "goodbye",
+    "response": "goodbye::Îți doresc multă sănătate și fericire!"
+  },
+  {
+    "pattern": "Îți doresc o zi minunată!",
+    "tag": "goodbye",
+    "response": "goodbye::La revedere, sper să mai vorbim!"
+  },
+  {
+    "pattern": "Să ai o zi frumoasă!",
+    "tag": "goodbye",
+    "response": "goodbye::Îți mulțumesc pentru conversație!"
+  },
+  {
+    "pattern": "Îți mulțumesc, ne mai auzim!",
+    "tag": "goodbye",
+    "response": "goodbye::O zi productivă să ai!"
+  },
+  {
+    "pattern": "A fost plăcut să vorbim!",
+    "tag": "goodbye",
+    "response": "goodbye::Sper că am fost de ajutor!"
+  },
+  {
+    "pattern": "La revedere, toate cele bune!",
+    "tag": "goodbye",
+    "response": "goodbye::Multă baftă în ceea ce faci!"
+  },
+  {
+    "pattern": "Sper să mai discutăm!",
+    "tag": "goodbye",
+    "response": "goodbye::Mă retrag, să ne auzim cu bine!"
+  },
+  {
+    "pattern": "Drum bun și mult succes!",
+    "tag": "goodbye",
+    "response": "goodbye::A fost o plăcere!"
+  },
+  {
+    "pattern": "Mă bucur că am vorbit!",
+    "tag": "goodbye",
+    "response": "goodbye::Mulțumesc pentru timpul tău!"
+  },
+  {
+    "pattern": "Ne vedem data viitoare!",
+    "tag": "goodbye",
+    "response": "goodbye::Rămâi pozitiv și plin de energie!"
+  },
+  {
+    "pattern": "Ai grijă, toate cele bune!",
+    "tag": "goodbye",
+    "response": "goodbye::Să ai o zi excelentă!"
+  },
+  {
+    "pattern": "Pe data viitoare!",
+    "tag": "goodbye",
+    "response": "goodbye::Ne mai auzim, succes!"
+  },
+  {
+    "pattern": "Mă retrag, pe curând!",
+    "tag": "goodbye",
+    "response": "goodbye::Fii bine, toate cele bune!"
+  },
+  {
+    "pattern": "O zi productivă!",
+    "tag": "goodbye",
+    "response": "goodbye::Ne mai vedem, ai grijă de tine!"
+  },
+  {
+    "pattern": "Mult succes în ceea ce faci!",
+    "tag": "goodbye",
+    "response": "goodbye::Salut, să ai o zi minunată!"
+  },
+  {
+    "pattern": "Îți doresc tot binele!",
+    "tag": "goodbye",
+    "response": "goodbye::Mă bucur că am vorbit!"
+  },
+  {
+    "pattern": "Ne reîntâlnim altădată!",
+    "tag": "goodbye",
+    "response": "goodbye::Mă retrag acum, numai bine!"
+  },
+  {
+    "pattern": "Fii bine, ai grijă de tine!",
+    "tag": "goodbye",
+    "response": "goodbye::Îți doresc o zi plină de reușite!"
+  },
+  {
+    "pattern": "Salut, plec acum!",
+    "tag": "goodbye",
+    "response": "goodbye::Mă bucur să fiu aici oricând ai nevoie!"
+  },
+  {
+    "pattern": "Îți mulțumesc pentru timpul acordat!",
+    "tag": "goodbye",
+    "response": "goodbye::Pe data viitoare!"
+  },
+  {
+    "pattern": "O noapte bună!",
+    "tag": "goodbye",
+    "response": "goodbye::Fii bine, ne revedem!"
+  },
+  {
+    "pattern": "Pa, să ai o zi frumoasă!",
+    "tag": "goodbye",
+    "response": "goodbye::Rămâi cu bine!"
+  },
+  {
+    "pattern": "A fost o plăcere, la revedere!",
+    "tag": "goodbye",
+    "response": "goodbye::O zi productivă și plină de energie!"
+  },
+  {
+    "pattern": "Ne revedem cât de curând!",
+    "tag": "goodbye",
+    "response": "goodbye::Te mai aștept pentru o conversație!"
+  },
+  {
+    "pattern": "Îți mulțumesc, toate cele bune!",
+    "tag": "goodbye",
+    "response": "goodbye::Pe curând, să ai grijă de tine!"
+  },
+  {
+    "pattern": "Mulțumesc pentru discuție!",
+    "tag": "goodbye",
+    "response": "goodbye::Fii bine, mult succes!"
+  },
+  {
+    "pattern": "Ne întâlnim data viitoare!",
+    "tag": "goodbye",
+    "response": "goodbye::A fost o plăcere, la revedere!"
+  },
+  {
+    "pattern": "Îți urez o zi grozavă!",
+    "tag": "goodbye",
+    "response": "goodbye::Sper să ai o zi grozavă!"
+  },
+  {
+    "pattern": "A fost interesant să discutăm!",
+    "tag": "goodbye",
+    "response": "goodbye::Oricând ai nevoie, sunt aici!"
+  },
+  {
+    "pattern": "Salut, ne mai vedem!",
+    "tag": "goodbye",
+    "response": "goodbye::Mulțumesc pentru discuție!"
+  },
+  {
+    "pattern": "Mulțumesc, mă retrag acum!",
+    "tag": "goodbye",
+    "response": "goodbye::Ne întâlnim data viitoare!"
+  },
+  {
+    "pattern": "Ne mai auzim, toate cele bune!",
+    "tag": "goodbye",
+    "response": "goodbye::Îți urez numai bine!"
+  },
+  {
+    "pattern": "Rămâi cu bine!",
+    "tag": "goodbye",
+    "response": "goodbye::A fost o conversație interesantă!"
+  },
+  {
+    "pattern": "Îți doresc un final de zi frumos!",
+    "tag": "goodbye",
+    "response": "goodbye::Mulțumesc, mă retrag acum!"
+  },
+  {
+    "pattern": "Să ai o zi minunată!",
+    "tag": "goodbye",
+    "response": "goodbye::Ne mai auzim, toate cele bune!"
+  },
+  {
+    "pattern": "Salut, a fost o conversație plăcută!",
+    "tag": "goodbye",
+    "response": "goodbye::Rămâi cu bine și ai grijă de tine!"
+  },
+  {
+    "pattern": "Ce mai zici?",
+    "tag": "small_talk",
+    "response": "small_talk::Încerc mereu să am o zi bună!"
+  },
+  {
+    "pattern": "Ce ai mai făcut în ultima vreme?",
+    "tag": "small_talk",
+    "response": "small_talk::E plăcut să vorbesc cu tine!"
+  },
+  {
+    "pattern": "Cum mai ești?",
+    "tag": "small_talk",
+    "response": "small_talk::Zilele trec repede când învăț lucruri noi."
+  },
+  {
+    "pattern": "Cum a decurs ziua ta?",
+    "tag": "small_talk",
+    "response": "small_talk::Îmi place să cunosc oameni noi."
+  },
+  {
+    "pattern": "Totul bine la tine?",
+    "tag": "small_talk",
+    "response": "small_talk::Sper că și la tine e totul bine!"
+  },
+  {
+    "pattern": "Cum merge treaba?",
+    "tag": "small_talk",
+    "response": "small_talk::E important să găsim timp pentru relaxare."
+  },
+  {
+    "pattern": "Ce planuri ai avut recent?",
+    "tag": "small_talk",
+    "response": "small_talk::Fiecare zi e o nouă oportunitate."
+  },
+  {
+    "pattern": "Cum îți petreci timpul liber?",
+    "tag": "small_talk",
+    "response": "small_talk::Îmi place liniștea din timpul serii."
+  },
+  {
+    "pattern": "Ai avut o zi interesantă?",
+    "tag": "small_talk",
+    "response": "small_talk::Mă simt inspirat azi!"
+  },
+  {
+    "pattern": "Ce noutăți ai?",
+    "tag": "small_talk",
+    "response": "small_talk::Am avut parte de conversații interesante."
+  },
+  {
+    "pattern": "Cum a fost săptămâna ta?",
+    "tag": "small_talk",
+    "response": "small_talk::Mă bucur de lucrurile simple."
+  },
+  {
+    "pattern": "Ai avut o zi bună?",
+    "tag": "small_talk",
+    "response": "small_talk::Zâmbetele sunt contagioase, nu?"
+  },
+  {
+    "pattern": "Cum e dispoziția ta azi?",
+    "tag": "small_talk",
+    "response": "small_talk::Mă bucur de orice moment de liniște."
+  },
+  {
+    "pattern": "Ce te-a făcut să zâmbești recent?",
+    "tag": "small_talk",
+    "response": "small_talk::Conversațiile ca aceasta îmi plac mult."
+  },
+  {
+    "pattern": "Ce îți aduce bucurie?",
+    "tag": "small_talk",
+    "response": "small_talk::Îmi place să explorez idei noi."
+  },
+  {
+    "pattern": "Cum îți începi de obicei ziua?",
+    "tag": "small_talk",
+    "response": "small_talk::Încerc să găsesc ceva bun în fiecare zi."
+  },
+  {
+    "pattern": "Ce îți place să faci în timpul tău liber?",
+    "tag": "small_talk",
+    "response": "small_talk::Îmi place să fiu de ajutor."
+  },
+  {
+    "pattern": "Cum te relaxezi după o zi lungă?",
+    "tag": "small_talk",
+    "response": "small_talk::E o zi frumoasă pentru o discuție!"
+  },
+  {
+    "pattern": "Care sunt lucrurile care te înveselesc?",
+    "tag": "small_talk",
+    "response": "small_talk::Conexiunile sincere sunt cele mai valoroase."
+  },
+  {
+    "pattern": "Cum te simți în ultima perioadă?",
+    "tag": "small_talk",
+    "response": "small_talk::Fiecare zi aduce ceva diferit!"
+  },
+  {
+    "pattern": "Ce sfat ai pentru carieră?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::O carieră de succes începe cu o bună cunoaștere de sine. Ce îți place să faci?"
+  },
+  {
+    "pattern": "Cum îmi aleg cariera?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Încearcă să identifici domeniile care te pasionează și investighează ce oportunități oferă."
+  },
+  {
+    "pattern": "Ai sfaturi pentru viitorul meu profesional?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Gândește-te la valorile tale personale, aptitudinile pe care le ai și mediul în care te vezi lucrând."
+  },
+  {
+    "pattern": "Cum pot avea o carieră de succes?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Fă o listă cu ceea ce îți place și nu îți place la locurile de muncă anterioare sau la școală."
+  },
+  {
+    "pattern": "Ce drum profesional mi se potrivește?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Nu există un drum perfect, dar este important să te simți motivat și implicat în ceea ce faci."
+  },
+  {
+    "pattern": "Cum decid ce vreau să fac în viață?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Vorbește cu profesioniști din diverse domenii ca să înțelegi mai bine realitatea din teren."
+  },
+  {
+    "pattern": "Ce carieră mi-ai recomanda?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Ia în considerare atât pasiunile tale, cât și cererea pe piața muncii."
+  },
+  {
+    "pattern": "Nu știu ce job mi se potrivește, mă poți ajuta?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Fă voluntariat sau încearcă stagii de practică pentru a testa mai multe domenii."
+  },
+  {
+    "pattern": "Cum aleg între mai multe opțiuni de carieră?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Stabilește-ți obiective clare și realiste și urmărește-le pas cu pas."
+  },
+  {
+    "pattern": "Ce factori trebuie să iau în calcul când aleg o carieră?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Ai răbdare cu tine – alegerea carierei nu este o decizie care se ia într-o zi."
+  },
+  {
+    "pattern": "Vreau să fac o alegere bună pentru viitorul meu profesional.",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Învățarea continuă este esențială pentru succesul profesional pe termen lung."
+  },
+  {
+    "pattern": "Cum pot să descopăr ce mi-ar plăcea să fac?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Încearcă teste de orientare profesională pentru a-ți clarifica direcția."
+  },
+  {
+    "pattern": "Ce pași pot urma pentru a avea o carieră împlinită?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Dacă nu ești sigur, încearcă să te alături unui mentor sau unui coach de carieră."
+  },
+  {
+    "pattern": "Este important să aleg o carieră după pasiune sau siguranță financiară?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Fii deschis la schimbare – cariera ta se poate transforma pe parcursul vieții."
+  },
+  {
+    "pattern": "Cum să-mi construiesc o carieră solidă?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Nu te teme de greșeli – fiecare experiență te ajută să te cunoști mai bine."
+  },
+  {
+    "pattern": "Ce competențe sunt importante pentru carieră în general?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Începe cu un pas mic – un curs, o conversație, o lectură – și vezi ce declanșează interesul tău."
+  },
+  {
+    "pattern": "Cum îmi stabilesc obiectivele de carieră?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Este important să găsești un echilibru între ce îți place și ce este sustenabil."
+  },
+  {
+    "pattern": "Cum pot începe să planific pe termen lung?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Creează un plan de dezvoltare personală și revizuiește-l periodic."
+  },
+  {
+    "pattern": "Ce sfaturi ai pentru cineva la început de drum?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Fii proactiv – caută informații, întreabă, testează."
+  },
+  {
+    "pattern": "Cum pot afla ce mă motivează profesional?",
+    "tag": "career_advice_general",
+    "response": "career_advice_general::Succesul în carieră vine adesea din curajul de a încerca și de a învăța continuu."
+  },
+  {
+    "pattern": "Vreau să-mi schimb cariera.",
+    "tag": "career_change",
+    "response": "career_change::Schimbarea carierei este un pas curajos și poate fi extrem de benefic dacă simți că actualul drum nu te mai împlinește."
+  },
+  {
+    "pattern": "Cum știu dacă e timpul să schimb domeniul?",
+    "tag": "career_change",
+    "response": "career_change::Începe prin a identifica ce anume nu îți mai place și ce ți-ar plăcea să faci în schimb."
+  },
+  {
+    "pattern": "Mi-am pierdut interesul pentru jobul actual.",
+    "tag": "career_change",
+    "response": "career_change::Explorează domenii care te atrag și vezi ce competențe sunt necesare pentru a face tranziția."
+  },
+  {
+    "pattern": "Este prea târziu să schimb cariera?",
+    "tag": "career_change",
+    "response": "career_change::Poți începe cu cursuri sau certificări online care te pregătesc pentru noul domeniu."
+  },
+  {
+    "pattern": "Nu mai sunt fericit la locul de muncă, ce pot face?",
+    "tag": "career_change",
+    "response": "career_change::Vorbește cu oameni care deja lucrează în domeniul în care vrei să intri pentru a înțelege realitatea acelui job."
+  },
+  {
+    "pattern": "Cum pot face o tranziție către alt domeniu?",
+    "tag": "career_change",
+    "response": "career_change::Schimbarea carierei nu are vârstă – este mai important să fii motivat și pregătit să înveți."
+  },
+  {
+    "pattern": "Ce fac dacă nu-mi mai place domeniul în care lucrez?",
+    "tag": "career_change",
+    "response": "career_change::Planificarea este cheia. Evaluează-ți abilitățile actuale și cum pot fi transferate în noua direcție."
+  },
+  {
+    "pattern": "Ce pași ar trebui să urmez pentru a-mi schimba cariera?",
+    "tag": "career_change",
+    "response": "career_change::Ia în calcul un proces treptat – poți face freelancing, voluntariat sau proiecte mici în noul domeniu."
+  },
+  {
+    "pattern": "Am lucrat mulți ani într-un domeniu și vreau ceva nou.",
+    "tag": "career_change",
+    "response": "career_change::Stabilește un plan realist pe termen mediu și fii pregătit pentru o perioadă de ajustare."
+  },
+  {
+    "pattern": "Cum fac trecerea la o nouă profesie?",
+    "tag": "career_change",
+    "response": "career_change::Este normal să simți teamă la început. Focalizează-te pe oportunități, nu doar pe riscuri."
+  },
+  {
+    "pattern": "Mi-e frică să renunț la cariera actuală.",
+    "tag": "career_change",
+    "response": "career_change::Poate fi util să lucrezi cu un consilier de carieră sau coach pentru o tranziție mai clară."
+  },
+  {
+    "pattern": "Ce riscuri implică o schimbare de carieră?",
+    "tag": "career_change",
+    "response": "career_change::O reconversie profesională presupune învățare, dar și curajul de a ieși din zona de confort."
+  },
+  {
+    "pattern": "Vreau să fac altceva, dar nu știu ce.",
+    "tag": "career_change",
+    "response": "career_change::Schimbarea carierei poate însemna o viață profesională mai satisfăcătoare și aliniată cu valorile tale."
+  },
+  {
+    "pattern": "Cum pot începe de la zero în alt domeniu?",
+    "tag": "career_change",
+    "response": "career_change::Evaluează și impactul financiar al tranziției – fă economii dacă e nevoie, ca să reduci presiunea."
+  },
+  {
+    "pattern": "Este bine să îți schimbi cariera la 30/40/50 de ani?",
+    "tag": "career_change",
+    "response": "career_change::Fă pași mici și constanți. Nu e nevoie să ai totul clar de la început."
+  },
+  {
+    "pattern": "Jobul meu nu mă mai împlinește.",
+    "tag": "career_change",
+    "response": "career_change::Uită-te la ce experiențe ai deja – multe competențe sunt transferabile."
+  },
+  {
+    "pattern": "Cum pot face o reconversie profesională?",
+    "tag": "career_change",
+    "response": "career_change::Poți încerca un internship, un job part-time sau voluntariat pentru a testa noua direcție."
+  },
+  {
+    "pattern": "Ce resurse există pentru schimbarea carierei?",
+    "tag": "career_change",
+    "response": "career_change::Documentează-te foarte bine despre piața muncii din domeniul în care vrei să intri."
+  },
+  {
+    "pattern": "Mi-e teamă de necunoscut, dar vreau o schimbare.",
+    "tag": "career_change",
+    "response": "career_change::Schimbările sunt dificile, dar stagnarea poate fi și mai costisitoare emoțional."
+  },
+  {
+    "pattern": "Cum pot învăța o meserie nouă?",
+    "tag": "career_change",
+    "response": "career_change::Important e să te simți împlinit, chiar dacă asta înseamnă să începi de la zero."
+  },
+  {
+    "pattern": "Cum îmi scriu un CV bun?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Un CV bun trebuie să fie clar, concis și să evidențieze realizările tale relevante pentru jobul dorit."
+  },
+  {
+    "pattern": "Ce să includ în CV-ul meu?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Include întotdeauna datele de contact, un rezumat profesional, experiența, educația și competențele tale."
+  },
+  {
+    "pattern": "Care sunt cele mai importante secțiuni într-un CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Evită informațiile irelevante sau prea detaliate, concentrează-te pe ce contează pentru angajator."
+  },
+  {
+    "pattern": "Cum fac ca CV-ul meu să iasă în evidență?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Folosește bullet points pentru a face CV-ul ușor de scanat rapid."
+  },
+  {
+    "pattern": "Ce greșeli să evit în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Adaptează CV-ul pentru fiecare job, punând accent pe cerințele specifice ale poziției."
+  },
+  {
+    "pattern": "Cum pot adapta CV-ul pentru un job specific?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Evita greșelile gramaticale și formatările neuniforme care pot crea o impresie proastă."
+  },
+  {
+    "pattern": "Trebuie să pun și hobby-urile în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Un profil profesional scurt, dar puternic, poate capta atenția recrutorului rapid."
+  },
+  {
+    "pattern": "Cum ar trebui să fie formatat un CV profesional?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Evidențiază realizările cuantificabile, nu doar responsabilitățile din joburile anterioare."
+  },
+  {
+    "pattern": "Ce lungime ar trebui să aibă un CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::În cazul schimbării de carieră, pune accent pe competențele transferabile și cursurile relevante."
+  },
+  {
+    "pattern": "Cum scriu un profil profesional în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Folosește un format simplu, profesional, și un font ușor de citit precum Arial sau Calibri."
+  },
+  {
+    "pattern": "Cum să evidențiez experiența fără multă muncă anterioară?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Include doar informații personale relevante și evită detaliile sensibile sau prea personale."
+  },
+  {
+    "pattern": "Cum să pun în valoare competențele transferabile în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Pentru joburile tehnice, include certificări și competențe tehnice clare."
+  },
+  {
+    "pattern": "Cum să scriu realizările în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Asigură-te că CV-ul tău poate fi citit corect de sistemele ATS folosind un format standard."
+  },
+  {
+    "pattern": "Este bine să adaug fotografii în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Actualizează-ți CV-ul regulat, adăugând realizările și experiențele noi."
+  },
+  {
+    "pattern": "Cum să îmi structurez CV-ul pentru un job tehnic?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Proaspăt absolvent? Concentrează-te pe educație, proiecte și orice experiență relevantă, chiar și voluntariat."
+  },
+  {
+    "pattern": "Ce font și dimensiune sunt potrivite pentru CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Evită folosirea de fotografii în CV, decât dacă este cerut explicit."
+  },
+  {
+    "pattern": "Cum să fac un CV pentru o schimbare de carieră?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Referințele pot fi menționate la cerere, nu este necesar să le incluzi în CV."
+  },
+  {
+    "pattern": "Este bine să folosesc un CV creativ sau unul clasic?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Fii sincer și clar în prezentarea experienței tale, chiar dacă ai lacune, explică-le într-un mod pozitiv."
+  },
+  {
+    "pattern": "Cum să scriu referințele în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Folosește verbe de acțiune și evită expresiile generice sau clișeele."
+  },
+  {
+    "pattern": "Cum să mă asigur că CV-ul trece de filtrele ATS?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Pentru joburi internaționale, adaptează CV-ul la formatul și cerințele locale."
+  },
+  {
+    "pattern": "Cum să actualizez CV-ul după fiecare job?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Include limbile străine doar dacă ai un nivel de cunoaștere suficient pentru job."
+  },
+  {
+    "pattern": "Cum să menționez studiile și cursurile în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Creează un CV ușor de personalizat pentru fiecare aplicare pentru a crește șansele."
+  },
+  {
+    "pattern": "Ce să scriu în CV dacă sunt proaspăt absolvent?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Folosește un singur fișier PDF pentru a păstra formatul intact la trimitere."
+  },
+  {
+    "pattern": "Cum să includ voluntariatul în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Nu uita să incluzi linkuri către portofoliu sau profiluri profesionale online, dacă ai."
+  },
+  {
+    "pattern": "Cum să evit frazele clișeu în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Folosește un titlu clar al CV-ului cu numele tău și poziția dorită."
+  },
+  {
+    "pattern": "Ce detalii personale ar trebui să includ în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Asigură-te că toate informațiile sunt actuale și corecte."
+  },
+  {
+    "pattern": "Cum să scriu un CV pentru joburi internaționale?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Folosește spații albe pentru o mai bună lizibilitate."
+  },
+  {
+    "pattern": "Cum să enumăr limbile străine în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Nu exagera cu culorile sau designul, mai ales dacă aplici la companii tradiționale."
+  },
+  {
+    "pattern": "Cum să evit greșelile gramaticale în CV?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Dacă ai lacune în experiență, concentrează-te pe abilitățile dobândite în alte moduri."
+  },
+  {
+    "pattern": "Cum să personalizez CV-ul pentru fiecare aplicare?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Fii pregătit să explici orice neclarități în CV la interviu."
+  },
+  {
+    "pattern": "Ce să fac dacă am lacune în experiența profesională?",
+    "tag": "cv_tips",
+    "response": "cv_tips::Un CV bun trebuie să fie clar, concis și să evidențieze realizările tale relevante pentru jobul dorit."
+  },
+  {
+    "pattern": "Cum să mă pregătesc pentru un interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Este important să studiezi compania și să exersezi răspunsurile înainte de interviu."
+  },
+  {
+    "pattern": "Ce să fac înainte de interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Pregătirea include să ai o ținută potrivită și să ajungi la timp."
+  },
+  {
+    "pattern": "Cum să am succes la un interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Fii sincer, calm și ascultă cu atenție întrebările."
+  },
+  {
+    "pattern": "Sfaturi pentru interviu de angajare",
+    "tag": "interview_tips",
+    "response": "interview_tips::În timpul interviului, menține contactul vizual și o postură deschisă."
+  },
+  {
+    "pattern": "Cum să răspund clar la interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Evită să vorbești negativ despre foști angajatori sau colegi."
+  },
+  {
+    "pattern": "Cum să mă comport în timpul unui interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Pregătește întrebări pentru angajator și arată interes autentic pentru poziție."
+  },
+  {
+    "pattern": "Ce ar trebui să evit la interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Practica răspunsurilor tale te va ajuta să fii mai încrezător."
+  },
+  {
+    "pattern": "Cum să mă fac remarcat la interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::La interviurile online, verifică conexiunea și mediul din jurul tău."
+  },
+  {
+    "pattern": "Cum să răspund la întrebările despre experiența mea?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Postura și limbajul corpului transmit mult despre încrederea ta."
+  },
+  {
+    "pattern": "Ce atitudine să am la interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::E important să asculți activ și să răspunzi concis și clar."
+  },
+  {
+    "pattern": "Cum să mă prezint la un interviu online?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Nu uita să mulțumești pentru oportunitate la finalul interviului."
+  },
+  {
+    "pattern": "Ce lucruri sunt importante în timpul interviului?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Fii punctual și politicos pe toată durata procesului de recrutare."
+  },
+  {
+    "pattern": "Cum să fiu relaxat în ziua interviului?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Relaxează-te prin exerciții de respirație înainte de interviu."
+  },
+  {
+    "pattern": "Ce sfaturi generale pentru interviu ai?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Ținuta trebuie să fie adecvată culturii companiei și domeniului de activitate."
+  },
+  {
+    "pattern": "Cum să arăt încredere la interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Evită să te întrerupi și să vorbești prea mult, păstrează răspunsurile relevante."
+  },
+  {
+    "pattern": "Ce să port la interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Încearcă să-ți evidențiezi realizările relevante pentru job."
+  },
+  {
+    "pattern": "Cum să îmi pregătesc răspunsurile pentru interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::E bine să-ți structurezi răspunsurile pentru a fi clare și ușor de înțeles."
+  },
+  {
+    "pattern": "Cum să impresionez angajatorul la interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Adu exemple concrete din experiența ta care susțin ce spui."
+  },
+  {
+    "pattern": "Ce greșeli să nu fac la un interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::Fii tu însuți și arată entuziasmul pentru job și companie."
+  },
+  {
+    "pattern": "Cum să fiu profesionist la interviu?",
+    "tag": "interview_tips",
+    "response": "interview_tips::O atitudine pozitivă și deschisă poate face diferența."
+  },
+  {
+    "pattern": "Cum să încep o carieră în IT?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Pentru a începe o carieră în IT, poți urma cursuri de programare și să practici proiecte personale."
+  },
+  {
+    "pattern": "Ce joburi sunt disponibile în IT?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Joburile din IT includ dezvoltator software, administrator rețea, specialist securitate, analist date și multe altele."
+  },
+  {
+    "pattern": "Ce abilități sunt necesare pentru un job IT?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Abilitățile importante includ programarea, gestionarea bazelor de date și înțelegerea rețelelor."
+  },
+  {
+    "pattern": "Cum devin programator?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Pentru a deveni programator, începe cu limbaje populare ca Python, Java sau JavaScript."
+  },
+  {
+    "pattern": "Care sunt cele mai căutate joburi în IT?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Cele mai căutate joburi IT sunt dezvoltator web, inginer software și specialist în securitate cibernetică."
+  },
+  {
+    "pattern": "Cum pot obține un job în securitate cibernetică?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Certificările precum CompTIA, Cisco sau AWS pot crește șansele de angajare."
+  },
+  {
+    "pattern": "Ce certificări IT sunt importante?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Pentru un job în securitate cibernetică, învață despre criptografie, firewall-uri și monitorizarea rețelelor."
+  },
+  {
+    "pattern": "Cum să aplic pentru un job de dezvoltator web?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Pentru dezvoltare web, învață HTML, CSS, JavaScript și framework-uri populare."
+  },
+  {
+    "pattern": "Ce limbaje de programare sunt cele mai bune pentru carieră în IT?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Limbajele de programare recomandate depind de domeniu, dar Python și JavaScript sunt foarte versatile."
+  },
+  {
+    "pattern": "Cum să învăț să lucrez cu baze de date?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Gestionarea bazelor de date presupune să cunoști SQL și tehnologii ca MySQL sau MongoDB."
+  },
+  {
+    "pattern": "Ce face un administrator de rețea?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Administratorii de rețea se ocupă de configurarea și întreținerea infrastructurii IT."
+  },
+  {
+    "pattern": "Cum să devin specialist în cloud computing?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Specialiștii cloud gestionează servicii precum AWS, Azure sau Google Cloud."
+  },
+  {
+    "pattern": "Cum să mă pregătesc pentru un job în IT?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Pregătirea pentru jobul IT include studiu continuu, participarea la proiecte și pregătirea pentru interviuri tehnice."
+  },
+  {
+    "pattern": "Ce joburi IT sunt potrivite pentru începători?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Începătorii pot începe cu poziții de testare software, suport tehnic sau dezvoltare front-end."
+  },
+  {
+    "pattern": "Cum să construiesc un portofoliu pentru IT?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Un portofoliu IT ar trebui să includă proiecte relevante și codul sursă pe platforme ca GitHub."
+  },
+  {
+    "pattern": "Ce soft skills sunt importante în IT?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Soft skills importante includ comunicarea, munca în echipă și rezolvarea creativă a problemelor."
+  },
+  {
+    "pattern": "Cum să fac față interviului pentru un job IT?",
+    "tag": "it_jobs",
+    "response": "it_jobs::Pentru interviurile IT, pregătește-te să rezolvi probleme de codare și să explici proiectele la care ai lucrat."
+  },
+  {
+    "pattern": "Ce oportunități de carieră există în IT?",
+    "tag": "it_jobs",
+    "response": "it_jobs::IT-ul oferă multe oportunități în programare, administrare rețea, analiză de date, securitate și consultanță."
+  },
+  {
+    "pattern": "Cum să încep o carieră în marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Pentru a începe o carieră în marketing, e important să înveți despre strategii digitale și comportamentul consumatorului."
+  },
+  {
+    "pattern": "Ce joburi sunt disponibile în marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Joburile în marketing includ specialist SEO, manager de social media, copywriter, analist de piață și manager de brand."
+  },
+  {
+    "pattern": "Ce abilități sunt necesare pentru un job în marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Abilitățile necesare includ creativitatea, analiza datelor, comunicarea și cunoașterea platformelor digitale."
+  },
+  {
+    "pattern": "Cum devin specialist în marketing digital?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Pentru marketing digital, învață SEO, Google Ads, social media și email marketing."
+  },
+  {
+    "pattern": "Care sunt cele mai căutate joburi în marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Cele mai căutate joburi sunt specialist SEO, manager PPC și strateg de conținut."
+  },
+  {
+    "pattern": "Ce face un manager de marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Managerii de marketing planifică campanii, coordonează echipe și analizează rezultatele."
+  },
+  {
+    "pattern": "Cum pot obține un job în publicitate?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Pentru publicitate, dezvoltă abilități de copywriting și înțelegere a pieței."
+  },
+  {
+    "pattern": "Ce certificări sunt importante pentru marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Certificările Google Ads și HubSpot pot ajuta mult în marketing."
+  },
+  {
+    "pattern": "Cum să aplic pentru un job de copywriter?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Ca copywriter, e important să ai un stil clar și convingător și să cunoști publicul țintă."
+  },
+  {
+    "pattern": "Ce este marketingul de conținut?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Marketingul de conținut implică crearea de materiale relevante pentru a atrage și păstra clienții."
+  },
+  {
+    "pattern": "Ce abilități sunt importante pentru un job în social media?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Pentru social media, gestionează conturile, creează conținut și analizează metrici de performanță."
+  },
+  {
+    "pattern": "Cum să devin expert SEO?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Specialiștii SEO optimizează site-uri pentru motoarele de căutare, crescând vizibilitatea online."
+  },
+  {
+    "pattern": "Ce face un analist de piață?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Analiștii de piață colectează și interpretează date pentru a ajuta la luarea deciziilor de business."
+  },
+  {
+    "pattern": "Cum să mă pregătesc pentru un job în marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Pregătirea pentru marketing include studiu continuu, practică pe proiecte și dezvoltarea rețelelor profesionale."
+  },
+  {
+    "pattern": "Ce joburi de marketing sunt potrivite pentru începători?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Începătorii pot începe ca asistenți marketing sau în suportul social media."
+  },
+  {
+    "pattern": "Cum să construiesc un portofoliu pentru marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Un portofoliu de marketing trebuie să includă campanii, texte scrise și rezultate măsurabile."
+  },
+  {
+    "pattern": "Ce soft skills sunt importante în marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Soft skills importante sunt comunicarea, adaptabilitatea și gândirea critică."
+  },
+  {
+    "pattern": "Cum să fac față interviului pentru un job în marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Pregătește-te pentru întrebări despre campanii anterioare și strategii în interviuri."
+  },
+  {
+    "pattern": "Ce oportunități de carieră există în marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Marketingul oferă oportunități în digital, B2B, B2C, PR și comunicare corporate."
+  },
+  {
+    "pattern": "Cum să devin specialist în email marketing?",
+    "tag": "marketing_jobs",
+    "response": "marketing_jobs::Email marketingul este o metodă eficientă de a păstra legătura cu clienții și a genera vânzări."
+  },
+  {
+    "pattern": "Cum să rămân motivat la locul de muncă?",
+    "tag": "motivation",
+    "response": "motivation::Motivația vine adesea din a avea scopuri clare și un plan bine definit."
+  },
+  {
+    "pattern": "Ai sfaturi pentru a-mi păstra motivația?",
+    "tag": "motivation",
+    "response": "motivation::Împarte-ți obiectivele mari în pași mici și sărbătorește fiecare reușită."
+  },
+  {
+    "pattern": "Ce să fac când mă simt descurajat în carieră?",
+    "tag": "motivation",
+    "response": "motivation::Amintește-ți de ce ai început și ce îți dorești să realizezi pe termen lung."
+  },
+  {
+    "pattern": "Cum să am mai multă încredere în mine la job?",
+    "tag": "motivation",
+    "response": "motivation::Înconjoară-te de oameni pozitivi care te susțin în carieră."
+  },
+  {
+    "pattern": "Ce mă poate ajuta să nu renunț ușor?",
+    "tag": "motivation",
+    "response": "motivation::Odihna și echilibrul între muncă și viața personală sunt esențiale pentru motivație."
+  },
+  {
+    "pattern": "Cum să îmi ating obiectivele profesionale?",
+    "tag": "motivation",
+    "response": "motivation::Provocările pot fi oportunități de creștere și învățare."
+  },
+  {
+    "pattern": "Ce să fac ca să fiu productiv zi de zi?",
+    "tag": "motivation",
+    "response": "motivation::Stabilește-ți o rutină care să includă pauze și activități care îți fac plăcere."
+  },
+  {
+    "pattern": "Cum pot depăși momentele dificile la muncă?",
+    "tag": "motivation",
+    "response": "motivation::Privește eșecurile ca pe lecții valoroase pentru succesul viitor."
+  },
+  {
+    "pattern": "Cum să îmi cresc motivația pentru dezvoltare profesională?",
+    "tag": "motivation",
+    "response": "motivation::Găsește-ți inspirația în povești de succes sau în modele profesionale."
+  },
+  {
+    "pattern": "Ce sfaturi ai pentru cineva care vrea să reușească?",
+    "tag": "motivation",
+    "response": "motivation::Încearcă să înveți ceva nou în fiecare zi pentru a-ți menține mintea activă."
+  },
+  {
+    "pattern": "Cum să îmi gestionez stresul la job?",
+    "tag": "motivation",
+    "response": "motivation::Fii blând cu tine însuți și evită să te compari cu alții."
+  },
+  {
+    "pattern": "Cum să am o atitudine pozitivă în carieră?",
+    "tag": "motivation",
+    "response": "motivation::Motivația crește când știi că munca ta are un impact pozitiv."
+  },
+  {
+    "pattern": "Ce mă poate inspira să muncesc mai bine?",
+    "tag": "motivation",
+    "response": "motivation::Practică recunoștința pentru lucrurile bune din cariera ta."
+  },
+  {
+    "pattern": "Cum să îmi setez scopuri clare pentru carieră?",
+    "tag": "motivation",
+    "response": "motivation::Setează-ți termene limită realiste pentru a rămâne concentrat."
+  },
+  {
+    "pattern": "Cum să găsesc motivația pentru a învăța ceva nou?",
+    "tag": "motivation",
+    "response": "motivation::Transformă-ți pasiunile în motivație pentru munca ta zilnică."
+  },
+  {
+    "pattern": "Cum să mă mențin energizat pe tot parcursul zilei?",
+    "tag": "motivation",
+    "response": "motivation::Ascultă muzică care te energizează înainte de a începe ziua."
+  },
+  {
+    "pattern": "Ce să fac când simt că nu mai am entuziasm?",
+    "tag": "motivation",
+    "response": "motivation::Fii deschis la feedback și folosește-l pentru a crește profesional."
+  },
+  {
+    "pattern": "Cum să îmi dezvolt disciplina în muncă?",
+    "tag": "motivation",
+    "response": "motivation::Învață să spui „nu” pentru a evita supraîncărcarea cu sarcini."
+  },
+  {
+    "pattern": "Ce pot face să îmi iubesc mai mult jobul?",
+    "tag": "motivation",
+    "response": "motivation::Amintește-ți că fiecare pas mic contează în drumul către succes."
+  },
+  {
+    "pattern": "Cum să îmi îmbunătățesc atitudinea față de muncă?",
+    "tag": "motivation",
+    "response": "motivation::Fii perseverent și ai încredere că rezultatele vor veni în timp."
+  }
+]
