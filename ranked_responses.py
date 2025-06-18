@@ -13,13 +13,15 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from fallbackHandler import getFallbackForTag
 
+from keras.src.saving import legacy_h5_format
+
 # === Setări directoare ===
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MODEL_DIR = os.path.join(BASE_DIR, "03_saved_models")
 DATASET_DIR = os.path.join(BASE_DIR, "04_datasets")
 
 # === Încarcă modelul și resursele ===
-MILO_03 = load_model(os.path.join(MODEL_DIR, "MILO_03.h5"))
+MILO_03 = legacy_h5_format.load_model(os.path.join(MODEL_DIR, "MILO_03.h5"))
 max_len = 12
 
 with open(os.path.join(MODEL_DIR, "tokenizer.pkl"), "rb") as f:
