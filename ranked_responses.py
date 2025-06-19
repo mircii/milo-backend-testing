@@ -13,11 +13,10 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from fallbackHandler import getFallbackForTag
 
-
 # === Setări directoare ===
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_DIR = os.path.join(BASE_DIR, "03_saved_models")
-DATASET_DIR = os.path.join(BASE_DIR, "04_datasets")
+MODEL_DIR = os.path.join(BASE_DIR, "../03_Saved_Models")
+DATASET_DIR = os.path.join(BASE_DIR, "../04_Datasets")
 
 # === Încarcă modelul și resursele ===
 MILO_03 = load_model(os.path.join(MODEL_DIR, "MILO_03.h5"))
@@ -103,7 +102,7 @@ def rank_response(user_input, predicted_intent, top_k=1):
     return selected_response
 
 # === Predicția finală: intenție + răspuns ===
-def predict_intent_and_response(user_message, confidence_threshold=0.85):
+def predict_intent_and_response(user_message, confidence_threshold=0.90):
     user_message_norm = remove_diacritics(user_message.lower())
 
     seq = tokenizer.texts_to_sequences([user_message_norm])
@@ -116,10 +115,11 @@ def predict_intent_and_response(user_message, confidence_threshold=0.85):
     predicted_intent = label_encoder.inverse_transform([intent_index])[0]
 
     if confidence < confidence_threshold:
-        fallback_response = getFallbackForTag(predicted_intent)
-        if fallback_response:
-            return predicted_intent, fallback_response, confidence
-        return predicted_intent, "Nu știu răspunsul la această întrebare.", confidence
+        if confidence > 0.8:
+            fallback_response = getFallbackForTag(predicted_intent)
+            if fallback_response:
+                return predicted_intent, fallback_response, confidence
+        return predicted_intent, "Îmi pare rău, nu am înțeles întrebarea. Poți să o reformulezi sau să fii puțin mai specific?", confidence
 
     response = rank_response(user_message, predicted_intent)
     return predicted_intent, response, confidence
